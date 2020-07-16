@@ -7,4 +7,4 @@ I am Edoardo, a MSc student from 🇪🇺🇮🇹, studying CS at [EPFL](https:/
 - 💻 I worked with: Python, Scala, PyTorch, TensorFlow, Pandas, sklearn, Spark.
 - 📫 You can find more info about me on my personal website [edoardodebenedetti.me](https://edoardodebenedetti.me).
 - ⚡ Fun fact: a part from 🇮🇹 and 🇨🇭, I lived also in 🇨🇳 for an exchange year!
-- 😍 I enjoy: sailing ⛵, swimming 🏊‍♂️, listening to (a lot of) [music](https://www.last.fm/user/dedeswim) 🎧, travelling 🗺️, hiking ⛰️. OF course I love thinking 💭 and coding ⌨️.
+- 😍 I enjoy: sailing ⛵, swimming 🏊‍♂️, listening to (a lot of) [music](https://www.last.fm/user/dedeswim) 🎧, travelling 🗺️, hiking ⛰️. Of course I love thinking 💭 and coding ⌨️.

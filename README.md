@@ -8,9 +8,3 @@ I am Edoardo, a MSc student from 🇪🇺🇮🇹, studying CS at [EPFL](https:/
 - 📫 You can find more info about me on my personal website [edoardodebenedetti.me](https://edoardodebenedetti.me).
 - ⚡ Fun fact: apart from 🇮🇹 and 🇨🇭, I lived also in 🇨🇳 for an exchange year!
 - 😍 I enjoy: sailing ⛵, swimming 🏊‍♂️, listening to (a lot of) [music](https://www.last.fm/user/dedeswim) 🎧, travelling 🗺️, hiking ⛰️. Of course I love thinking 💭 and coding ⌨️.
-
-<div align="center">
-
-[![Edoardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedeswim&show_icons=true&title_color=000&icon_color=586069&text_color=586069&bg_color=fff&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>

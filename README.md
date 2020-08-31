@@ -8,3 +8,7 @@ I am Edoardo, a MSc student from 🇪🇺🇮🇹, studying CS at [EPFL](https:/
 - 📫 You can find more info about me on my personal website [edoardodebenedetti.me](https://edoardodebenedetti.me).
 - ⚡ Interesting fact: apart from 🇮🇹 and 🇨🇭, I lived also in 🇨🇳 for an exchange year!
 - 😍 I enjoy: sailing ⛵, swimming 🏊‍♂️, listening to (a lot of) [music](https://www.last.fm/user/dedeswim) 🎧, travelling 🗺️, hiking ⛰️. Of course I love thinking 💭 and coding ⌨️.
+
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dedeswim&rank=A,AA,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
